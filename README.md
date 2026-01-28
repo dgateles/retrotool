@@ -1,6 +1,6 @@
 # Retro Tool
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![Version](https://img.shields.io/badge/version-1.0.3-blue.svg)
 
 **Retro Tool** is a modern, all-in-one Management Suite for retro gaming enthusiasts. It simplifies the process of managing your game collection, scraping metadata, and organizing your assets.
 
